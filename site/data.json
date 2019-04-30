@@ -1,0 +1,92 @@
+[
+	{
+		"name": "JavaScript",
+		"values": [
+			{
+				"name": "helloworld",
+				"speed": 0.45,
+				"memory": 5392633
+			},
+			{
+				"name": "summation",
+				"speed": 1.84,
+				"memory": 5392633
+			}
+		]
+	},
+	{
+		"name": "C",
+		"values": [
+			{
+				"name": "helloworld",
+				"speed": 0.0,
+				"memory": 4096
+			},
+			{
+				"name": "summation",
+				"speed": 0.0,
+				"memory": 4096
+			}
+		]
+	},
+	{
+		"name": "C++",
+		"values": [
+			{
+				"name": "helloworld",
+				"speed": 0.0,
+				"memory": 76800
+			},
+			{
+				"name": "summation",
+				"speed": 0.0,
+				"memory": 76800
+			}
+		]
+	},
+	{
+		"name": "LuaJIT",
+		"values": [
+			{
+				"name": "helloworld",
+				"speed": 0.0,
+				"memory": 4648
+			},
+			{
+				"name": "summation",
+				"speed": 1.4,
+				"memory": 4648
+			}
+		]
+	},
+	{
+		"name": "Lua 5.1",
+		"values": [
+			{
+				"name": "helloworld",
+				"speed": 0.0,
+				"memory": 32194
+			},
+			{
+				"name": "summation",
+				"speed": 7.5,
+				"memory": null
+			}
+		]
+	},
+	{
+		"name": "Lua 5.3",
+		"values": [
+			{
+				"name": "helloworld",
+				"speed": 0.0,
+				"memory": 27913
+			},
+			{
+				"name": "summation",
+				"speed": 7.77,
+				"memory": 28080
+			}
+		]
+	}
+]

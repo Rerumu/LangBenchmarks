@@ -1,0 +1,8 @@
+[
+	{
+		"folder": "c",
+		"name": "C (Clang)",
+		"build": "clang -O3 -o main {name}",
+		"run": "./main"
+	}
+]
